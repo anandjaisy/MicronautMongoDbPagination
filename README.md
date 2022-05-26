@@ -1,14 +1,3 @@
-## Micronaut 3.5.0 Documentation
+## Run the unit test to see the output
 
-- [User Guide](https://docs.micronaut.io/3.5.0/guide/index.html)
-- [API Reference](https://docs.micronaut.io/3.5.0/api/index.html)
-- [Configuration Reference](https://docs.micronaut.io/3.5.0/guide/configurationreference.html)
-- [Micronaut Guides](https://guides.micronaut.io/index.html)
----
-
-- [Shadow Gradle Plugin](https://plugins.gradle.org/plugin/com.github.johnrengelman.shadow)
-## Feature http-client documentation
-
-- [Micronaut HTTP Client documentation](https://docs.micronaut.io/latest/guide/index.html#httpClient)
-
-
+- Docker need to be there to run the test case
